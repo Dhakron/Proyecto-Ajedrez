@@ -18,5 +18,7 @@ peón (0), torre (1), alfil (2), caballo (3), reina (4) o rey (5). Siempre será
 - Semilla es un número natural positivo que se usará como semilla para generar la configuración
 inicial.
 
-Por ejemplo, la llamada:
+Por ejemplo:
 $ java searchChess uniform-cost 8 0.5 1 2020
+
+Para una descripccion detallada del proyecto, vease "Proyecto Ajedrez.pdf"
